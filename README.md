@@ -1,2 +1,2 @@
 # CV
-Information about me and examples of code
+Brief career and education information, with some examples of coding work
