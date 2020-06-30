@@ -2,7 +2,7 @@
 ### LPP W1 & LPP W3 Setting national goals for 40 age/sex bands - working with data split by age and sex 
 #---------------------------------------------------------
 #R script - reading in NHS BSA data split by age/sex of patients at CCG level and adding patient numbers
-# Then using this dataset to calculate national goals for LPP W1 & LPP W3
+# Then using this dataset to calculate standardised national goals for LPP W1 & LPP W3
 # Anna Rowan
 # Last updated: 19/08/2019
 # This just clears the global environment
